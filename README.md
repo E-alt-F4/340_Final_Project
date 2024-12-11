@@ -7,7 +7,7 @@ Project Proposal
 	Our team has chosen to study Formula 1 Race data which is archived from 1950-2024. We aim to answer the following questions:
 
 Pit stop time 
-	What was the overall change in average pit stop time?
+.What was the overall change in average pit stop time?
  	What team and car has the fastest pit stop time overall?
   	Which race had the fastest average pit stop?
 Race lap time (One selected track)
