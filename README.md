@@ -1,5 +1,6 @@
 # 340_Final_Project
 F1 Race data analysis
+
 The following project was done using F1 data from Kaggle: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
 Project Proposal
